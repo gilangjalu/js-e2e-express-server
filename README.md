@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/BayBuildingGroup/Node%20App/_apis/build/status/gilangjalu.js-e2e-express-server?branchName=main)](https://dev.azure.com/BayBuildingGroup/Node%20App/_build/latest?definitionId=3&branchName=main)
 ---
 page_type: sample
 languages:
